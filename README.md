@@ -3,7 +3,7 @@
 Turn any PDF into smart, practice-ready flashcards using AI.
 
 ## Live Demo
-🔗 https://srimat-cuemath-studio.vercel.app/
+🔗 https:https://the-flashcard-engine-y6r6.vercel.app/
 
 ## What it does
 - Upload any PDF (textbook, notes, chapter)
