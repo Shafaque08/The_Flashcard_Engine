@@ -15,7 +15,7 @@ Turn any PDF into smart, practice-ready flashcards using AI.
 - Search across all your decks
 
 ## Tech Stack
-- **Frontend:** Next.js 14, React
+- **Frontend:** HTML,Jvascript
 - **AI:** Groq API (Llama 3.3 70B)
 - **PDF Parsing:** unpdf
 - **Storage:** localStorage
